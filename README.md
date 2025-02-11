@@ -101,7 +101,8 @@ def hello_world():
 ![Alt Text]()
 
 ```markdown
-![Alt Text](https://picsum.photos/150)
+![Placeholder](https://placekitten.com/150/150)
+)
 ```
 
 ---
