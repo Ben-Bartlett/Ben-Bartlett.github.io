@@ -100,12 +100,12 @@ def hello_world():
 
 ![PLaceholder]()
 
-![Placeholder](https://placekitten.com/150/150)
-)
+![Google Logo](https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png)
+
 
 ```markdown
-![Placeholder](https://placekitten.com/150/150)
-)
+![Google Logo](https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png)
+
 ```
 
 ---
