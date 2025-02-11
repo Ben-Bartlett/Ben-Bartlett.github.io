@@ -98,7 +98,10 @@ def hello_world():
 
 ## 7. Images
 
-![Alt Text]()
+![PLaceholder]()
+
+![Placeholder](https://placekitten.com/150/150)
+)
 
 ```markdown
 ![Placeholder](https://placekitten.com/150/150)
