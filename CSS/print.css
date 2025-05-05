@@ -1,0 +1,39 @@
+@media print {
+    body {
+        background: white !important;
+        color: black !important;
+        font-size: 12pt; /* Adjust for readability */
+    }
+
+    header.jumbotron {
+        background: white !important;
+        color: black !important;
+        border-bottom: 2px solid black; /* Keeps header visible */
+    }
+
+    img {
+        max-width: 100% !important;
+        height: auto !important;
+    }
+
+    .container {
+        width: 100% !important;
+    }
+
+    .card {
+        border: 1px solid black !important; /* Ensures cards look correct */
+        background: white !important;
+        color: black !important;
+        box-shadow: none !important;
+    }
+
+    a {
+        color: black !important;
+        text-decoration: underline;
+    }
+
+    /* Page Breaks */
+    .page-break {
+        page-break-before: always;
+    }
+}
